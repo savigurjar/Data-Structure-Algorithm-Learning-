@@ -1,0 +1,4 @@
+original data
+124 56 7 89 3 
+ Sorted data
+3 7 56 89 124 

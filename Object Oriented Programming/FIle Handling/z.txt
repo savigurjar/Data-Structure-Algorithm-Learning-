@@ -1,0 +1,4 @@
+Original data:
+7 4 9 2 3 
+Sorted array:
+2 3 4 7 9 
